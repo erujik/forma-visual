@@ -40,3 +40,5 @@ yarn-error.log*
 /.pnpm-store/
 /reference.mov
 /forma-visual-timeweb.zip
+/.github-deploy-key
+/.github-deploy-key.pub
